@@ -1,11 +1,11 @@
-# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
+# <a href="https://ragavan-developer.netlify.app/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://ragav7775.github.io/Ragavan-developer/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://ragavan-developer.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Ragav-purple)](https://www.instagram.com/white_devil_00100)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-May%202025-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-May%202025-yellow.svg)](https://ragavan-developer.netlify.app/)
+<a href="https://github.com/Ragav7775/Ragavan-developer/blob/main/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 <img width="100%" alt="Portfolio Screenshot" src="src/png/readme-img.png">
 
